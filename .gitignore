@@ -1,0 +1,8 @@
+# backend/.gitignore
+venv/
+__pycache__/
+*.pyc
+.env
+output/
+screenshots/
+.DS_Store
